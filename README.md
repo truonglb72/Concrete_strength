@@ -34,12 +34,13 @@ Concrete compressive strength
 
 Usage
 1. Run EDA
-jupyter notebook EDA_concrete_scoring.ipynb
+jupyter notebook EDA_concrete.ipynb
 2. Run Feature Engineering
-jupyter notebook Feature_scoring.ipynb
+jupyter notebook Feature.ipynb
 3. Run Model Training
-jupyter notebook Train_model_scoring.ipynb
+jupyter notebook Train_model.ipynb
 Research Questions
+
 RQ1: Are linear models sufficient to describe the relationship between material composition and compressive strength?
 
 This project evaluates OLS, Ridge, and Lasso to determine whether linear relationships are enough for strength prediction.
